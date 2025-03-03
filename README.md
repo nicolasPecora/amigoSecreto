@@ -45,7 +45,7 @@ Para usar el proyecto, sigue estos pasos:
 
 Aquí hay una captura de pantalla del proyecto en funcionamiento:
 
-![Captura de pantalla del proyecto](ruta/a/la/captura.png)
+![Captura de pantalla del proyecto](https://github.com/nicolasPecora/amigoSecreto/blob/main/captura/Captura%20de%20pantalla%202025-03-03%20092431.png)
 
 ## Contribuciones
 
